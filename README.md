@@ -38,7 +38,7 @@ Inspired by the excitement of the IPL player auction, BidXI brings the auction e
 ![Auction Summary](website_image/auction_summary.png)
 
 ### 🧢 Final Squad
-![Final Squad](website_image/final_squad.png)
+![Final Squad](website_image/final_sqaud.png)
 
 ### Unsold Players
 ![Unsold Players](website_image/unsold_player.png)
